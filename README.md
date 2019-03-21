@@ -2,7 +2,7 @@
 
 This project prints the numbers from 1 to 100. When a number is divisible by 3, print "Fizz". When a number is divisible by 5, print "Buzz". When a number is divisible by both 3 and 5, print "FizzBuzz"
 
-###Library used:
+### Library used:
 
 1. Angular 7
 2. Angular material
