@@ -1,0 +1,19 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+.width100{
+  width: 100%;
+}
+
+/*remove outline on buttons from chrome browser*/
+button:focus {outline:0;}
+
+.mat-column-counter {
+  flex: 0 0 0 !important;
+  width: 50% !important;
+}
+
+.mat-column-value {
+  flex: 0 0 0 !important;
+  width: 50% !important;
+}
